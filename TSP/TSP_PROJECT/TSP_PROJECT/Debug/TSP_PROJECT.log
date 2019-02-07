@@ -1,0 +1,6 @@
+﻿  Tsp_Edge.cpp
+c:\users\wlgns\documents\visual studio 2015\projects\tsp_project\tsp_project\tsp_edge.cpp(77): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+c:\users\wlgns\documents\visual studio 2015\projects\tsp_project\tsp_project\tsp_edge.cpp(77): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+c:\users\wlgns\documents\visual studio 2015\projects\tsp_project\tsp_project\tsp_edge.cpp(683): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TSP_PROJECT.vcxproj -> C:\Users\wlgns\Documents\Visual Studio 2015\Projects\TSP_PROJECT\Debug\TSP_PROJECT.exe
+  TSP_PROJECT.vcxproj -> C:\Users\wlgns\Documents\Visual Studio 2015\Projects\TSP_PROJECT\Debug\TSP_PROJECT.pdb (Full PDB)
