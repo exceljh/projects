@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\camera">
+      <UniqueIdentifier>{4849e244-4b4e-4e3d-82c1-e2d42df3918f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\geometry">
+      <UniqueIdentifier>{1d9a7308-e82f-4960-905b-d5a589881147}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Cube.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="FPCamera.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Geometry.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="objModel.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Quad.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Rendermain.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureMgr.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="vertexBufferObject.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="TPCamera.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="Cubemap.h">
+      <Filter>main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Application.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Cube.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="FPCamera.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Geometry.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="objModel.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Quad.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Rendermain.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureMgr.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="vertexBufferObject.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="TPCamera.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="Cubemap.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
