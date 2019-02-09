@@ -8,4 +8,4 @@ openGL(glfw, glew)를 이용한 체스게임 영상 구현
 
 라이팅을 이용해서 효과
 
-avenchess.wma - 파일 최종 결과 영상
+AvenChess.wma - 파일 최종 결과 영상
