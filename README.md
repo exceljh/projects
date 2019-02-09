@@ -1,5 +1,7 @@
 # projects
 
+AI_proj2(Scikit-learn) - Scikit-learn을 이용한 Linear regression과 classfication
+
 AvenChess -openGL을 이용한 체스 그래픽구현
 
 TSP - 제한시간 안에 외판원순환문제 알고리즘
